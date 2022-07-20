@@ -54,6 +54,8 @@
 .purple {
 	background: #9457cb;
 }
+
+
 /*---------------/variables----------------------*/
 
 body {
@@ -113,6 +115,13 @@ a.githubLinks:hover #purplePanda {
 }
 
 /*-----------------Grids---------------------------*/
+
+.grid4 {
+	display: grid;
+	grid-template-columns: unset;
+	grid-column-gap: 12%;
+	grid-row-gap: 20px;
+}
 
 .grid3 {
 	display: grid;
@@ -247,9 +256,6 @@ p.chapo {
 	border-radius: 5px;
 	border: 1px solid white;
 	padding: 10px 20px;
-	width: 58%;
-	margin: 10px auto;
-	height: 55px;
 }
 
 #sponsor button:hover {
@@ -359,6 +365,12 @@ button#MagicRandomHacktricks:hover {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);
 		grid-column-gap: 12%;
+	}
+
+	.grid4 {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr auto;
+		grid-column-gap: 8%;
 	}
 
 	#sponsor .grid3 {
