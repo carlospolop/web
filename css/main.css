@@ -102,6 +102,18 @@ p.chapo {
 	text-align: center;
 }
 
+a.greenLink:hover {
+	color: #62b14e !important;
+}
+
+a.redLink:hover {
+	color: #ad1d16 !important;
+}
+
+a.purpleLink:hover {
+	color: #9457cb !important;
+}
+
 a.githubLinks:hover #peass {
 	fill: #62b14e !important;
 }
