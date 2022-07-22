@@ -336,6 +336,17 @@ button#MagicRandomHacktricks:hover {
 }
 
 /*---------------/Talks Block------------------------*/
+
+
+/*---------------Footer------------------------*/
+
+#footer{
+	padding:15px;
+	text-align: center;
+}
+
+/*---------------\Footer------------------------*/
+
 /*---------------Media Queries ----------------------*/
 
 .container {

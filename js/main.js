@@ -52,5 +52,11 @@ function getRandomInt(min, max) {
 		});
 
         //////////////// \Random Hacktricks Link
+
+		//////////////// Get the year
+		
+		document.getElementById("year").innerHTML = new Date().getFullYear();
+		
+		//////////////// \Get the year
 	});
 })(jQuery);
