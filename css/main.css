@@ -13,7 +13,7 @@
 :root {
 	--darkest: #3f3e40;
 	--dark: #494949;
-	--medium: #6f6a6d;
+	--medium: #5c5b5b;
 	--light: #ccc9c5;
 	--lightest: #dfdbd5;
 	--background: #f2eee8;
@@ -110,6 +110,11 @@ a.redLink:hover {
 	color: #ad1d16 !important;
 }
 
+a.blueLink:hover {
+	color: #007cfe !important;
+}
+
+
 a.purpleLink:hover {
 	color: #9457cb !important;
 }
@@ -120,6 +125,10 @@ a.githubLinks:hover #peass {
 
 a.githubLinks:hover #hacktricks {
 	fill: #ad1d16 !important;
+}
+
+a.githubLinks:hover #hacktricks_cloud {
+	fill: #007cfe !important;
 }
 
 a.githubLinks:hover #purplePanda {
@@ -214,6 +223,10 @@ a.hacktricks:hover {
 	color: #ad1d16 !important;
 }
 
+a.hacktricks_cloud:hover {
+	color: #007cfe !important;
+}
+
 a.purplePanda:hover {
 	color: #9457cb !important;
 }
@@ -278,7 +291,7 @@ p.chapo {
 /*---------------/Sponsors Block------------------------*/
 /*---------------Hacktricks Block------------------------*/
 
-button#MagicRandomHacktricks {
+button.MagicRandomHacktricks {
 	padding: 10px;
 	background-color:var(--lightest);
 	border-radius: 5px;
@@ -290,7 +303,7 @@ button#MagicRandomHacktricks {
 	font-size: 1.2em;
 }
 
-button#MagicRandomHacktricks:hover {
+button.MagicRandomHacktricks:hover {
 	background-color: var(--medium);
 	color: var(--lightest);
 	border: 2px solid var(--dark);
@@ -341,6 +354,7 @@ button#MagicRandomHacktricks:hover {
 /*---------------Footer------------------------*/
 
 #footer{
+	min-height: unset;
 	padding:15px;
 	text-align: center;
 }
@@ -392,7 +406,7 @@ button#MagicRandomHacktricks:hover {
 
 	.grid4 {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr auto;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
 		grid-column-gap: 8%;
 	}
 

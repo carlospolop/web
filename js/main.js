@@ -27,11 +27,10 @@ function getRandomInt(min, max) {
 
 
         //////////////// Random Hacktricks Link
-		function getHacktricksLink() {
+		function getHacktricksLink(sitemapUrl) {
 			$.ajax({
 				type: "GET",
-				//     // url: "https://book.hacktricks.xyz/sitemap.xml" ,
-				url: "./sitemap.xml",
+				url: sitemapUrl,
 				dataType: "xml",
 				error: function (e) {
 					alert("An error occurred while processing XML file");
@@ -45,8 +44,9 @@ function getRandomInt(min, max) {
 			});
 		}
 
-		$("#MagicRandomHacktricks").on("click", function (event) {
+		$(".MagicRandomHacktricks").on("click", function (event) {
             event.preventDefault();
+			console.log($(this).attr("sitemapUrl"));
 			getHacktricksLink();
 			window.open(link, "_blank");
 		});
