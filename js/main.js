@@ -27,10 +27,10 @@ function getRandomInt(min, max) {
 
 
         //////////////// Random Hacktricks Link
-		function getHacktricksLink(sitemapUrl) {
+		function getHacktricksLink(link) {
 			$.ajax({
 				type: "GET",
-				url: sitemapUrl,
+				url: link,
 				dataType: "xml",
 				error: function (e) {
 					alert("An error occurred while processing XML file");
@@ -46,7 +46,9 @@ function getRandomInt(min, max) {
 
 		$(".MagicRandomHacktricks").on("click", function (event) {
             event.preventDefault();
-			getHacktricksLink($(this).attr("sitemapUrl"));
+			link=$(this).attr("sitemapUrl");
+			console.log(link);
+			getHacktricksLink(link);
 			window.open(link, "_blank");
 		});
 
