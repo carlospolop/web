@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/apache-airflow-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-08-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/atlantis-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-24</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/circleci-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/concourse-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/gitea-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/github-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-09-06</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-10-03</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/pentesting-ci-cd-methodology</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-07-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/terraform-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-07-08</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/todo</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/travisci-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-08-23</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/pentesting-cloud-methodology</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-07-20</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/workspace-security</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/welcome/hacktricks-cloud</loc>
+				<priority>0.84</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/apache-airflow-security/airflow-configuration</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/apache-airflow-security/airflow-rbac</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/concourse-security/concourse-architecture</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/concourse-security/concourse-enumeration-and-attacks</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/concourse-security/concourse-lab-creation</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/gitea-security/basic-gitea-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/github-security/basic-github-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-06-23</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/basic-jenkins-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/jenkins-dumping-secrets-from-groovy</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/jenkins-rce-creating-modifying-pipeline</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/jenkins-rce-creating-modifying-project</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-06-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/jenkins-rce-with-groovy-script</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/jenkins-security/scm-ip-whitelisting-bypass</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-10-03</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/terraform-security/terraform-enterprise-security</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-ci-cd/travisci-security/basic-travisci-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-basic-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-permissions-for-a-pentest</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-06-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-unauthenticated-enum</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-08-19</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-basic-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-permissions-for-a-pentest</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/pass-the-prt</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/vms</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-basic-information</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-non-svc-persistance</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-permissions-for-a-pentest</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-unauthenticated-enum</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-08-20</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/attacking-kubernetes-from-inside-a-pod</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-08-20</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/exposing-services-in-kubernetes</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-basics</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-enumeration</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-hardening</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-07-08</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-namespace-escalation</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-network-attacks</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-pivoting-to-clouds</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-role-based-access-control-rbac</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/pentesting-kubernetes-services</loc>
+				<priority>0.7</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-basic-information/assume-role-logic</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-25</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-basic-information/connection-tracking</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-11</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-apigateway-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-cloudformation-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codebuild-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codepipeline-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codestar-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-cognito-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-07</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-datapipeline-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-dynamodb-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-25</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-ebs-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-ec2-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-03</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-ecr-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-ecs-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-efs-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-emr-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-30</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-glue-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-iam-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-01</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-lambda-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-lightsail-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-misc-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-rds-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-01</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-s3-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-sagemaker-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-secrets-manager-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-ssm-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-01</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-sts-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-api-gateway-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cloudformation-and-codestar-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-05</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cloudfront-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-05</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cloudhsm-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cognito-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-07</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-databases</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-31</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-datapipeline-codepipeline-codebuild-and-codecommit</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-06-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-ecs-ecr-and-eks-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-efs-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-emr-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-31</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-iam-and-sts-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-kms-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-21</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-lambda-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-lightsail-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-other-services-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-route53-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-s3-athena-and-glacier-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-05</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-secrets-manager-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-sqs-and-sns-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-app-services-and-function-apps</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-28</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-arm-templates</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-automation-account</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-azure-app-service</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-azuread</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-blob-storage</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-function-apps</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-keyvault</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-device-code-authentication-phishing</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-illicit-consent-grant</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-unauthenticated-enum-and-initial-entry/az-password-spraying</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-10-03</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-apikeys-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-cloudbuild-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-cloudfunctions-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-cloudscheduler-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-composer-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-compute-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-container-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-deploymentmaneger-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-iam-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-kms-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-local-privilege-escalation-ssh-pivoting</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-misc-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-orgpolicy-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-resourcemanager-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-run-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-secretmanager-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-serviceusage-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-privilege-escalation/gcp-storage-privesc</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-ai-platform-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-cloud-functions-app-engine-and-cloud-run-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-compute-instances-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-compute-network-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-compute-os-config-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-09-04</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-containers-gke-and-composer-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-dns-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-filestore-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-iam-and-org-policies-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-kms-and-secrets-management-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-pub-sub</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-source-repositories-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-13</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-stackdriver-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-storage-enum</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-unauthenticated-enum/gcp-public-buckets-privilege-escalation</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes/kubernetes-roles-abuse-lab</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/abusing-roles-clusterroles-in-kubernetes/pod-escape-privileges</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-hardening/kubernetes-networkpolicies</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-hardening/kubernetes-securitycontext-s</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/kubernetes-security/kubernetes-hardening/monitoring-with-falco</loc>
+				<priority>0.59</priority>
+				<lastmod>2022-05-02</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-cloudformation-privesc/iam-passrole-cloudformation-createstack-and-cloudformation-describestacks</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-25</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codestar-privesc/codestar-createproject-codestar-associateteammember</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-codestar-privesc/iam-passrole-codestar-createproject</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-privilege-escalation/aws-misc-privesc/route53-createhostedzone-route53-changeresourcerecordsets-acm-pca-issuecertificate-acm-pca-getcer</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-11</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cognito-enum/cognito-identity-pools</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-08-07</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-cognito-enum/cognito-user-pools</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-08-07</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-databases/aws-documentdb-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-databases/aws-dynamodb-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-databases/aws-redshift-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-databases/aws-relational-database-rds-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-26</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-malicious-vpc-mirror</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-ssm-post-exploitation</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-ec2-ebs-elb-ssm-vpc-and-vpn-enum/aws-vpcs-network-subnetworks-ifaces-secgroups-nat</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-iam-and-sts-enum/aws-confused-deputy</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-lambda-enum/aws-warm-lambda-persistence</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-cloudtrail-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-08-09</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-cloudwatch-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-17</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-config-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-cost-explorer-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-detective-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-firewall-manager-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-guardduty-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-inspector-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-macie-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-security-hub-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-shield-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-27</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-trusted-advisor-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/aws-security/aws-services/aws-security-and-detection-services/aws-waf-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-05-12</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/azure-security/az-services/az-automation-account/az-state-configuration-rce</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-09-29</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-bigquery-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-bigtable-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-firebase-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-firestore-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-memorystore-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-spanner-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+			<url>
+				<loc>https://cloud.hacktricks.xyz/pentesting-cloud/gcp-security/gcp-services/gcp-databases-enum/gcp-sql-enum</loc>
+				<priority>0.5</priority>
+				<lastmod>2022-07-15</lastmod>
+</url>
+
+
+</urlset>
