@@ -46,8 +46,7 @@ function getRandomInt(min, max) {
 
 		$(".MagicRandomHacktricks").on("click", function (event) {
             event.preventDefault();
-			console.log($(this).attr("sitemapUrl"));
-			getHacktricksLink();
+			getHacktricksLink($(this).attr("sitemapUrl"));
 			window.open(link, "_blank");
 		});
 
